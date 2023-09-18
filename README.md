@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaciejRosenkiewicz. I have started my journey in testing. I prepare my portfolio from tests, test cases and scenario and I hope that my
-  projects will enjoy. IT it's the most amazing and exciting road in my carrer.
+  projects will enjoy. IT it's the most amazing and exciting path in my carrer.
   
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
